@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@content: [
+  "./src/*.jsx"
+],
